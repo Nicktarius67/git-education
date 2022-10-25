@@ -1,1 +1,1 @@
-NewInfo
+ConflictFromBranch
