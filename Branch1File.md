@@ -1,1 +1,1 @@
-ConflictFromMaster
+ConflictFromBranch + ConflictFromMaster
